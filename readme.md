@@ -1,3 +1,6 @@
+
+<p align="center"><img src="https://arliden.com/images/kilvin-icon-small.png"></p>
+
 # Kilvin CMS 1.0 Documentation
 
 This repo holds the content for the Kilvin CMS v1 docs site.
