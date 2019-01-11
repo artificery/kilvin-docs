@@ -1,15 +1,16 @@
 - ## Prologue
-    - [Release Notes](/docs/releases)
-    - [Contribution Guide](/docs/contributions)
+    - [About Kilvin]({{path}}/index)
+    - [Release Notes]({{path}}/releases)
+    - [Contribution Guide]({{path}}/contributions)
 - ## Getting Started
-    - [Installation](/docs/installation)
-    - [Configuration](/docs/configuration)
-    - [Directory Structure](/docs/structure)
+    - [Installation]({{path}}/installation)
+    - [Configuration]({{path}}/configuration)
+    - [Directory Structure]({{path}}/structure)
 - ## Architecture Concepts
-    - [Naming](/docs/naming)
+    - [Naming]({{path}}/naming)
 - ## The Basics
-    - [Naming](/docs/naming)
+    - [Posting]({{path}}/posting)
 - ## Frontend
-    - [Templates](/docs/templates)
+    - [Templates]({{path}}/templates)
 - ## Digging Deeper
     - [Laravel Docs](https://laravel.com/docs)
