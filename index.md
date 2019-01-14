@@ -16,7 +16,7 @@ There is now a demo for developers wishing to preview Kilvin CMS. The database h
 
 We would like to extend our thanks to the following sponsors for helping fund Kilvin CMS development. If you are interested in becoming a sponsor, please visit the Kilvin CMS [Patreon page](http://patreon.com/reedmaniac):
 
-- **[Paul Burdick](https://paulburdick.me)** - The laziest man on the planet.
+- **[Paul Burdick](https://paulburdick.me)** - Coder. Geek. Outdoorsman. Lover of Knowledge. Pursuer of Fun.
 
 ## Security Vulnerabilities
 
