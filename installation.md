@@ -20,6 +20,8 @@
    - cms/storage
    - cms/templates
    - public/images
- - Create a database for your new site in MySQL/MariaDB.
  - Configure your webserver to make the `./public` directory your web root.
- - Direct your browser to the install.php file on your new site and run the installer. Example: http://mysite.com/install.php
+ - Create a database for your new site in MySQL/MariaDB.
+ - Direct your browser to the `/installer` URL on your new site and run the installer. Example: https://mysite.com/installer
+ - Go through the installer steps to install the CMS.
+ - That's it! After completion, the installer will direct you to your Kilvin CMS control panel for the site.
