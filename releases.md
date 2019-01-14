@@ -8,7 +8,7 @@
 <a name="versioning-scheme"></a>
 ## Versioning Scheme
 
-Kilvin CMS' versioning scheme maintains the following convention: `major.minor.bug`.  When referencing the Kilvin CMS, you should always use a version constraint such as `5.7.*`, since major releases of Kilvin may include breaking changes.
+Kilvin CMS' versioning scheme maintains the following convention: `major.minor.bug`.  When referencing the Kilvin CMS, you should always use a version description such as `1.2`, since different releases of Kilvin may include breaking changes and it will help with debugging and support.
 
 <a name="support-policy"></a>
 ## Support Policy

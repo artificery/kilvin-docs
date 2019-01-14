@@ -18,16 +18,14 @@ Remember, bug reports are created in the hope that others with the same problem 
 
 The Kilvin CMS source code is managed on GitHub, and there are repositories for specific projects:
 
-<div class="content-list" markdown="1">
-- [Kilvin CMS](https://github.com/artificery/kilvin)
-- [Kilvin CMS Package](https://github.com/artificery/kilvin-cms)
+- [Kilvin CMS](https://github.com/artificery/kilvin) - Foundation for a new installation.
+- [Kilvin CMS Composer Package](https://github.com/artificery/kilvin-cms) - The code that runs the CMS, includes control panel and default plugins. Most PRs and bug reports will be here.
 - [Kilvin CMS Documentation](https://github.com/artificery/kilvin-docs)
-</div>
 
 <a name="which-branch"></a>
 ## Which Branch?
 
-**All** bug fixes should be sent to the latest stable branch or to the [current LTS branch](/docs/{{version}}/releases#support-policy). Bug fixes should **never** be sent to the `master` branch unless they fix features that exist only in the upcoming release.
+**All** bug fixes should be sent to the latest stable branch or to the current major version. Bug fixes should **never** be sent to the `master` branch unless they fix features that exist only in the upcoming release.
 
 **Minor** features that are **fully backwards compatible** with the current Kilvin CMS release may be sent to the latest stable branch.
 
