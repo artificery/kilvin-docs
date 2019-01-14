@@ -2,7 +2,7 @@
 # Install Kilvin CMS
 
 ### Server Requirements
- - PHP 7.0 or later with safe mode disabled
+ - PHP 7.1.3 or later with safe mode disabled
  - MySQL 5.5.0 or later, with the InnoDB storage engine installed. MariaDB works too.
  - A web server (Apache, Nginx)
  - OpenSSL PHP Extension
@@ -13,7 +13,7 @@
 ### Installation
 
  - Insure you have a server meeting the above requirements. [Laravel Homestead](https://laravel.com/docs/5.4/homestead) is a superb development environment for Kilvin CMS.
- - Clone this GitHub repo onto your server.
+ - Clone the [Kilvin CMS starter repo](https://github.com/artificery/kilvin) onto your server.
  - In your terminal, run the following [Composer](https://getcomposer.org) command in your cloned directory to install Kilvin's dependencies: `composer create-project --prefer-dist`.
  - Permissions. Insure that the following files and directories are writeable on your server. Homestead is set up to allow this automatically:
    - .env
