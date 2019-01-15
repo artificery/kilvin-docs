@@ -1,9 +1,8 @@
 
-
 # Configuration
 
 ## Multiple Sites
 
- - Weblogs, Fields, Categories, Statuses, Member Groups, Members, and most preferences are global and NOT site-specific
- - Templates and Stats are Site-specific
- - Member Groups have permissions that allow you to restrict them to only certain Sites, Weblogs, and Statuses
+ - Weblogs, Entry Fields, Categories, Statuses, Templates, and Stats are Site-specific
+ - Member Groups and Members are global and NOT site-specific
+ - Access to Weblogs, Templates, Plugins, and Assets are based off Member Group
