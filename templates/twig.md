@@ -7,3 +7,12 @@
 The best place to start is by reading the [Twig for Template Designers](https://twig.symfony.com/doc/2.x/templates.html) documentation. Kilvin CMS comes with a set of default templates and you can reference the documentation while your read through them.
 
 If you are a programmer and want to expand what Twig can do in Kilvin CMS, you should check out the [Extending Twig](https://twig.symfony.com/doc/2.x/advanced.html) documentation. Kilvin CMS has extended Twig in a number of ways to meet its needs, so you should also look at it `./config/twig.php` configuration file while also looking through the code located in the `./vendor/artificery/kilvin-cms/src/Libraries/Twig` directory.
+
+
+## Two Important Concepts
+
+### Variables
+
+### Loops
+
+### Conditionals
