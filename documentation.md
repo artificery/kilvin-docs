@@ -8,9 +8,13 @@
     - [Directory Structure]({{path}}/structure)
 - ## Architecture Concepts
     - [Naming]({{path}}/naming)
-- ## The Basics
-    - [Posting]({{path}}/posting)
-- ## Frontend
-    - [Templates]({{path}}/templates)
+- ## Control Panel
+    - [Posting an Entry]({{path}}/cp/posting)
+    - [Asset Containers]({{path}}/cp/assets)
+    - [Administration]({{path}}/cp/administration)
+- ## Templates
+    - [Twig Introduction]({{path}}/templates/twig)
+    - [Building a Page]({{path}}/templates/build-page)
 - ## Digging Deeper
     - [Laravel Docs](https://laravel.com/docs)
+    - [Twig for Designers](https://twig.symfony.com/doc/2.x/templates.html)
